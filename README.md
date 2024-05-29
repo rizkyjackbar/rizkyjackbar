@@ -4,13 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Muhammad+Rizky!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
-
+<p align="center">
+    Hello, I'm Muhammad Rizky, a student majoring in Informatics at AMIKOM Yogyakarta with a primary focus on web development. I am highly enthusiastic about learning and applying the latest web technologies to create innovative and useful applications. My academic experience at AMIKOM has equipped me with deep knowledge and practical skills in this field.
+</p> 
 <br/>
 
 <div align="center">
- 
-
 
  </div>
  
@@ -31,16 +30,9 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,vite,express,mysql,npm,postman" /><br>
 </div>
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  
-  <br/><br/><br/>
-</div>
