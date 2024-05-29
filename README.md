@@ -33,3 +33,11 @@
 
 <br/>
 <hr/>
+
+<h2 align="center">My Stats</h2>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizkyjackbar&theme=highcontrast&hide_border=true&border_radius=6.6&locale=id" alt="GitHub Streak" /></a>
+</div>
+<div align="center">
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rizkyjackbar&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&border_radius=6.6&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
